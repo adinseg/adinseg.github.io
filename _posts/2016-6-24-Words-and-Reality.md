@@ -3,4 +3,4 @@ layout: post
 title: Words and Reality!
 ---
 
-bla bla bla
+Hello, this is a new post, check
